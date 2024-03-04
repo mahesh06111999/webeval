@@ -1,5 +1,5 @@
 #heading {
-  background-color: red;
+  background-color: #c81c2a;
   color: white;
   text-align: center;
   font-size: 30px;
@@ -11,6 +11,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: rgb(214, 214, 214);
+  font-family: "Open Sans", sans-serif;
 }
 .nav {
   background-color: black;
@@ -48,4 +49,49 @@ span {
   display: inline-block;
   margin-left: 300px;
   margin-top: 50px;
+}
+
+.material-symbols-outlined {
+  color: black;
+  margin-right: 10px;
+}
+
+.formdiv {
+  background-image: url(https://media.istockphoto.com/id/1063727164/video/multicolored-motion-gradient-background-shades-of-gray.jpg?s=640x640&k=20&c=ddlttXzOZzR92NVlL40I6Bu31FCjReuNDKAvnIZ85D4=);
+  padding: 20px;
+  background-size: cover;
+}
+#form {
+  width: 500px;
+  background-color: #f4f4f4;
+  margin: auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+input {
+  width: 97%;
+  padding: 6px;
+  border-radius: 10px;
+  border: 1px solid white;
+  margin: 3px;
+}
+.radiobt {
+  display: inline-flex;
+}
+button {
+  background-color: #4cb050;
+  color: white;
+  padding: 12px 15px;
+  margin-left: 42%;
+  border: #4cb050;
+  border-radius: 5px;
+}
+
+#term {
+  margin-left: 10px;
+  align-items: start;
+}
+
+textarea {
+  border: #f4f4f4;
 }
