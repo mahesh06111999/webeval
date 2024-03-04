@@ -1,0 +1,26 @@
+#heading {
+  background-color: red;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  margin-top: 0px;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+.nav {
+  background-color: black;
+  height: 50px;
+}
+
+span {
+  display: inline-block;
+  padding-top: 12px;
+  color: white;
+  margin-left: 70px;
+  font-size: 20px;
+  font-weight: 100;
+}
